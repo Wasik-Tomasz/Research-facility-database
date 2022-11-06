@@ -1,0 +1,15 @@
+Project contractors:
+• Nawrocki Patryk,
+• Prusik Serafin,
+• Wąsik Tomasz.
+
+Topic: 
+	Agricultural plant research facility
+
+Topic description: 
+	Our system would make creating scientific documentation much easier. The organization has many branches in many regions. Each branch is divided into smaller sectors (which are connected to plant species). Sectors consit of many research buildings, such as greenhouses. In each building plant research is carried out. Scientists document the conditions under which the plant grows (type of soil, temperature, humidity etc.). 
+
+Requirement for the project:
+• connection to database is available via web browser,
+• employees/users could search plants by their regions, species etc.,
+• the view for several workers group would be implement. For example, main director could see worker's private fields such as salary. Other workers would see only fields directly connected to research.
